@@ -1,16 +1,16 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
+![logo_ironhack_blue 7](https:user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # LAB | Canvas Flappy Bird
 
 ## Introduction
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_6706fdbfdce80220b94fc6c04e2c990d.jpg)
+![](https:s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_6706fdbfdce80220b94fc6c04e2c990d.jpg)
 
-The famous FlappyBird is a game developed by Vietnamese video game artist and programmer Dong Nguyen, under his game development company [dotGEARS](https://en.wikipedia.org/wiki/DotGEARS).
+The famous FlappyBird is a game developed by Vietnamese video game artist and programmer Dong Nguyen, under his game development company [dotGEARS](https:en.wikipedia.org/wiki/DotGEARS).
 
 The objective is to direct a flying bird, named "Faby", who moves continuously to the right, between sets of pipes. If the player touches the pipes, they lose. Faby briefly flaps each time upward that the player clicks on the spacebar; if the screen is not tapped, Faby falls because of gravity.
 
-If you want to understand better the game, go ahead and play a bit [here](http://flappybird.io/)
+If you want to understand better the game, go ahead and play a bit [here](http:flappybird.io/)
 
 ## Requirements
 
@@ -39,7 +39,7 @@ The canvas tag is already part of the HTML starter code provided in the `index.h
 
 ### Iteration 2: Create the Player
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_5279ab3427a72a2fbf77cbc9e2b32664.png)
+![](https:s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_5279ab3427a72a2fbf77cbc9e2b32664.png)
 
 We have the `canvas` with our beautiful background. Now we need to add ´Faby´.
 
@@ -58,7 +58,7 @@ We should also check the user iteration when he clicks the **spacebar**. Every t
 
 ### Iteration 3: Create obstacles
 
-<img src="https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_032b5d79ab1c7412e747473b679f0b59.png" alt="" style="width:450px; float:right; margin-left: 50px"/>
+<img src="https:s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_032b5d79ab1c7412e747473b679f0b59.png" alt="" style="width:450px; float:right; margin-left: 50px"/>
 
 You need to add some obstacles to make this fun. If you notice every time we create obstacles, we should create two of them and position one at the top, and the other at the bottom, and of course, make a gap between them where 'Faby' could pass.
 
